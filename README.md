@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**SandeshJIT/SandeshJIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Engineer who is very excited to learn new things and very eager to work with
+new Technologies.😄
+Programming gets me excited as it allows me to take up challenges and clear all the hurdles
+and build something which may end up helping others.👨🏿‍💻👨🏿‍💻
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Angular Development
+- 🌱 I’m currently learning MEAN Stack
+- 🤔 I’m looking for help with anything which is a challange to me
+- 💬 Ask me about FOOD and CODE... xD
+- 📫 How to reach me: <img src="https://www.linkedin.com/in/sandesh-s-1394a1183/" /> anytime 😀
+- ⚡ Fun fact: I dance too (Professionally btw xD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
