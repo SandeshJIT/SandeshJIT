@@ -12,5 +12,5 @@ and build something which may end up helping others.👨🏿‍💻👨🏿‍�
 - 🤔 I’m looking for help with anything which is a challange to me
 - 💬 Ask me about FOOD and CODE... xD
 - 📫 How to reach me: anytime 😀
-- ⚡ Fun fact: I dance too (Professionally btw xD)
+- ⚡ Fun fact: I dance too (Professionally btw xD) and I game as well 🎮
 
