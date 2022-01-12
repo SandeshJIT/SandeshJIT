@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">https://www.linkedin.com/in/sandesh-s-1394a1183/</img>
+ <a href="https://www.linkedin.com/in/sandesh-s-1394a1183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I am a passionate Engineer who is very excited to learn new things and very eager to work with
 new Technologies.😄
