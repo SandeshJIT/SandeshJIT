@@ -2,17 +2,16 @@
  <a href="https://www.linkedin.com/in/sandesh-s-1394a1183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/hs_sandesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
 
-I am a passionate Engineer who is very excited to learn new things and very eager to work with
-new Technologies.😄
-Programming gets me excited as it allows me to take up challenges and clear all the hurdles
-and build something which may end up helping others.👨🏿‍💻👨🏿‍💻
+🚀 Masters in Computer Science @Northeastern University Boston.
+ Passionate Full Stack Developer | .NET Core & Java Enthusiast
 
-- 🔭 I’m currently working on Angular Development
-- 🌱 I’m currently learning MEAN Stack
-- 🤔 I’m looking for help with anything which is a challange to me
-- 💬 Ask me about FOOD and CODE... xD
-- 📫 How to reach me: Any of the above links
-- ⚡ Fun fact: I dance too (Professionally btw xD) and I game as well 🎮
+I'm Sandesh, a seasoned Full Stack Developer with 3 years of experience and a rich background in delivering impactful solutions. My journey has taken me through the dynamic landscapes of Thoughtworks and TCS, where I've honed my skills in crafting robust backend applications and driving end-to-end RESTful API solutions. With expertise in Azure cloud, Agile practices, CI/CD pipelines, and automation testing, I consistently strive to deliver high-quality, scalable solutions.
+
+Skills Highlights:
+- .NET Core | Java | Angular
+- Azure Cloud Technologies | Docker
+- Clean Code | Automation Testing | CI/CD Pipelines
+- Responsive Web Development | REST APIs | ORMs (Entity Framework Core)
 
 
 ### Technologies and Tools:
