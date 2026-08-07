@@ -2,16 +2,26 @@
  <a href="https://www.linkedin.com/in/sandesh-s-1394a1183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/hs_sandesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
 
-🚀 Masters in Computer Science @Northeastern University Boston.
- Passionate Full Stack Developer | .NET Core & Java Enthusiast
+Software Engineer specializing in backend and cloud systems | MSCS @ Northeastern University (4.0 GPA)
 
-I'm Sandesh, a seasoned Full Stack Developer with 3 years of experience and a rich background in delivering impactful solutions. My journey has taken me through the dynamic landscapes of Thoughtworks and TCS, where I've honed my skills in crafting robust backend applications and driving end-to-end RESTful API solutions. With expertise in Azure cloud, Agile practices, CI/CD pipelines, and automation testing, I consistently strive to deliver high-quality, scalable solutions.
+I build serverless applications with AWS Lambda and Python. Previously at Thoughtworks, TCS and First Help Financial. I contributed to engineering solutions that:
 
-Skills Highlights:
-- .NET Core | Java | Angular
-- Azure Cloud Technologies | Docker
-- Clean Code | Automation Testing | CI/CD Pipelines
-- Responsive Web Development | REST APIs | ORMs (Entity Framework Core)
+- Cut developer onboarding time by 60%, enabling $16M+ in new revenue
+- Scaled order volume 8X in just 3 months with containerized platforms
+- Reduced test execution time by 55% with automated frameworks
+- Boosted system performance by 3X through optimized architectures
+
+🔧 Core Technologies:
+
+- Backend: .NET Core, Java, Spring Boot, REST APIs, Microservices, Distributed Systems
+- Cloud: AWS (Lambda, API Gateway, RDS, S3), Azure (Service Bus, App Insights), Docker, Kubernetes
+- Databases: MySQL, PostgreSQL, MongoDB, Redis
+- Frontend: React, Angular, JavaScript, TypeScript
+
+
+🎓 Academics: 4.0 GPA at Northeastern University (MSCS). Awarded Best Outgoing Student during undergrad for academic and leadership excellence.
+
+💡 Passionate about clean architecture, TDD, and scalable systems that solve real business problems. Always open to discussing technology, career opportunities, or collaborations.
 
 
 ### Technologies and Tools:
